@@ -5,7 +5,5 @@
 
 ## Tecnologias
 <div>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFr_eMMW540tXeNQHXz9cma5fEXiROri8AmW9dTFNNCA&s=10">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5_YfHGWyIp9hxgfp7OLAeVoSvW3764xwttlaMgOXoKg&s=10">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Y4be37zEcOX0L7i_Fq7oWSlgk5Nr4gcefG-7I05z4A&s=10">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />
 </div>
